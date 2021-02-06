@@ -1,6 +1,6 @@
 # ScreenMelter
 
-# INFO
+## INFO
 
 ScreenMelter that works for all Monitors and can only be exited by CTRL+ALT+SHIFT+ESC
 - <a href="https://github.com/Zer0Mem0ry/ScreenMelter">Original ScreenMelter by Zer0Mem0ry</a>
